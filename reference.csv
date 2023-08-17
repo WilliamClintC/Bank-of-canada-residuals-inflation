@@ -1,0 +1,13 @@
+﻿REF_DATE,GEO,DGUID,Products and product groups,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+Jul-23,Canada,2016A000011124,All-items,2002=100,17,units,0,v41690973,2.2,158.1,,,,1
+Jul-23,Canada,2016A000011124,Food,2002=100,17,units,0,v41690974,2.3,185.5,,,,1
+Jul-23,Canada,2016A000011124,Shelter,2002=100,17,units,0,v41691050,2.79,172.6,,,,1
+Jul-23,Canada,2016A000011124,"Household operations, furnishings and equipment",2002=100,17,units,0,v41691067,2.96,131.8,,,,1
+Jul-23,Canada,2016A000011124,Clothing and footwear,2002=100,17,units,0,v41691108,2.139,95.2,,,,1
+Jul-23,Canada,2016A000011124,Transportation,2002=100,17,units,0,v41691128,2.176,172.4,,,,1
+Jul-23,Canada,2016A000011124,Health and personal care,2002=100,17,units,0,v41691153,2.201,146.6,,,,1
+Jul-23,Canada,2016A000011124,"Recreation, education and reading",2002=100,17,units,0,v41691170,2.219,129.4,,,,1
+Jul-23,Canada,2016A000011124,"Alcoholic beverages, tobacco products and recreational cannabis",2002=100,17,units,0,v41691206,2.256,191.2,,,,1
+Jul-23,Canada,2016A000011124,Durable goods,2002=100,17,units,0,v41691223,2.275,104.7,,,,1
+Jul-23,Canada,2016A000011124,Semi-durable goods,2002=100,17,units,0,v41691224,2.276,103.1,,,,1
+Jul-23,Canada,2016A000011124,Non-durable goods,2002=100,17,units,0,v41691225,2.277,182.3,,,,1
